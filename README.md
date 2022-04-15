@@ -1,7 +1,5 @@
-# phone-directory
+# Phone Directory
 <p>Phone Directory made with Javascipt</p>
 
-## Part-1
-![Ekran Görüntüsü (95)](https://user-images.githubusercontent.com/93269500/163043749-2ff65b86-decb-4617-9974-bfeb522a3ad2.png)
-## Part-2
-![Ekran Görüntüsü (96)](https://user-images.githubusercontent.com/93269500/163043760-50e9a0fe-5c1f-4a2c-bf68-34380937755a.png)
+![Phone-Directory-Google-Chrome-2022-04-15-17-50-37](https://user-images.githubusercontent.com/93269500/163585910-d50aedb9-011d-41f3-b8c8-24ecb4003861.gif)
+
